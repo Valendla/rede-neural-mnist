@@ -5,7 +5,7 @@
 Implementação de uma rede neural simples utilizando Python e PyTorch
 para classificação de imagens do dataset MNIST.
 
- ##Sobre o projeto.
+ ## Sobre o projeto.
 
 O MNIST contém imagens de números escritos à mão de 0 a 9.
 Cada imagem possui 28 × 28 pixels, totalizando 784 valores de entrada.
@@ -24,7 +24,7 @@ Após o treinamento, o modelo apresentou:
 
 **Acurácia: 91,70%**
 
- ##Tecnologias
+ ## Tecnologias
 
 - Python
 - PyTorch
@@ -32,6 +32,6 @@ Após o treinamento, o modelo apresentou:
 - Google Colab
 - GitHub
 
- ##Arquivo
+ ## Arquivo
 
 `rede_neural_mnist.ipynb` contém a implementação completa do projeto.
