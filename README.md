@@ -1,6 +1,6 @@
 # Rede Neural MNIST
 
- ##Objetivo.
+ ## Objetivo.
 
 Implementação de uma rede neural simples utilizando Python e PyTorch
 para classificação de imagens do dataset MNIST.
