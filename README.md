@@ -22,7 +22,7 @@ A rede neural utilizada possui:
 
 Após o treinamento, o modelo apresentou:
 
-**Acurácia: 91,70%**
+**Acurácia: 91,72%**
 
  ## Tecnologias
 
