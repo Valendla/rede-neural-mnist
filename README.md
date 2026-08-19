@@ -18,7 +18,7 @@ A rede neural utilizada possui:
 - Otimizador: SGD
 - 3 épocas de treinamento
 
-## 📊 Resultado
+Resultado.
 
 Após o treinamento, o modelo apresentou:
 
